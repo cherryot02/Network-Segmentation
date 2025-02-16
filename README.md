@@ -27,6 +27,6 @@ Router1( config-if)# no shut
 Router1( config-if)# exit
 
 ```
-What we are doing here is that, we are trying to make sure the right cables are connected and beging given a specific address and no shut means that the port is open. <br />
+What we are doing here is that, we are trying to make sure the right cables are connected and beging given a specific address and no shut means that the port is open.
 There are tendencies that the ports is not turned on leading to no connectivity.
 
