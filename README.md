@@ -39,4 +39,24 @@ Router1( config-router)# network 10.0.0.0
 Router1( config-router)# exit 
 Router1( config)#
 ```
+## Task 3
+Do the same thing in Router2 but used the following commands
+```
+Router 2> enable
+Router 2# configure terminal
+Router2( config)# int fa0/ 0 
+Router2( config-if)# ip add 20.0.0.1 255.0.0.0
+Router2( config-if)# no shut 
+Router2( config-if)# exit 
 
+Router2( config)# int fa0/ 1 
+Router2( config-if)# ip add 192.168.0.2 255.255.255.0 
+Router2( config-if)# no shut 
+Router2( config-if)# exit 
+
+Router2( config)# router rip 
+Router2( config-router)# network 192.168.0.0 
+Router2( config-router)# network 20.0.0.0 
+Router2( config-router)# exit
+
+```
