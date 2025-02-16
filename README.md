@@ -7,7 +7,7 @@ Given a topology, I had to create a similar topology of the following image.
 ![image 1a-Basis](https://github.com/user-attachments/assets/c36881d2-15f7-4bcf-a2f5-b8bdf774e5b0)
 
 ## Task 1
-Open Cisco Packet Tracer and on the logical tab, set-up the devices and cables by dragging the tools from the bottom right of the screen.<br />
+Open Cisco Packet Tracer and on the logical tab, set-up the devices and ethernet cables by dragging the tools from the bottom right of the screen.<br />
 Once you have created the preceding topology, configure the appropriate IP addresses as mentioned in the topology. 
 
 image2
