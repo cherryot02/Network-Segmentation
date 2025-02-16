@@ -1,5 +1,5 @@
 # Network Configuration and ACLs.
-The man purpose of this lab is to learn how to set and configure IP addresses on different network devices such as router and switches, as well as workstations and one server;
+The main purpose of this lab is to learn how to set and configure IP addresses on different network devices such as router and switches, as well as workstations and one server;
 then verify their connectivity by pinging and seeing no reds or errors on the connections.<br /> <br />
 I used Cisco Packet Tracer in order to perform the tasks. <br />
 
