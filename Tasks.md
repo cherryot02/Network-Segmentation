@@ -30,7 +30,7 @@ Router1( config-if)# exit
 What we are doing here is that, we are trying to make sure the right cables are connected, given a specific address, subnet masks and no shut means that the port stays open.
 There are tendencies that the ports is not turned on leading to no connectivity.
 
-## Task 2 - Router CLI and other devices
+## Task 2 - Router CLI 
 Use routing method called RIP, exceute the following commands on Router1 (R1)
 ```
 Router1( config)# router rip 
@@ -39,7 +39,7 @@ Router1( config-router)# network 10.0.0.0
 Router1( config-router)# exit 
 Router1( config)#
 ```
-## Task 3 - Router 2
+## Task 3 - Router 2 and other devices
 Do the same thing in Router2 but used the following commands. 
 ```
 Router 2> enable
