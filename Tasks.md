@@ -98,7 +98,8 @@ Results: <br />
 I am including some of my ping where I got stuck at #6 pinging the server just so you know I did it. I was rechecking if I did the instructions right, turns out my router 2 network wasn’t configured, which I thought I did: fixed that. Then, also fixed my server’s IP addresses and default gateway because they were interchanged. So midway of pinging I realized it and fixed it, that’s why there’s a sudden packet that was received. Then the next pings worked.
 
 ![image](https://github.com/user-attachments/assets/b416539e-0d72-434a-bf2a-3ac367b37254)
-![image](https://github.com/user-attachments/assets/2f1f2dde-9f18-4554-bc1e-bfceafa716a8) <br />
+![image](https://github.com/user-attachments/assets/6fa3cebe-73c6-4c0d-b5bb-28f4c722e431)
+<br />
 And everything for the ACLs worked as well.<br />
 ![image](https://github.com/user-attachments/assets/1c6f8752-6b2c-434b-982d-486cc6f39bc7)
 
